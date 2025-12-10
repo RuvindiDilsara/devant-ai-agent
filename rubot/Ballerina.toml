@@ -1,0 +1,4 @@
+[package]
+org = "ruorg"
+name = "rubot"
+version = "1.0.0"
