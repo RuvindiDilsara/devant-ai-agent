@@ -1,3 +1,3 @@
 import ballerina/ai;
 
-final ai:Wso2ModelProvider rubotModel = check ai:getDefaultModelProvider();
+final ai:Wso2ModelProvider rubot2Model = check ai:getDefaultModelProvider();
